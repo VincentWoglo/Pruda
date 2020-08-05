@@ -1,6 +1,6 @@
 # Clock timer
 ## Ui and timer functionality
-[✅] UI Design Template
+[✅] UI Design Template<br />
 [✅] Turn ui into working prototype
 [] Code timer
 
